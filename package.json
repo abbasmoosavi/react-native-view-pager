@@ -28,8 +28,8 @@
     "tab-bar",
     "tab-view"
   ],
-  "author": "ZubinTang",
-  "license": "ISC",
+  "author": "arvin_abbas_",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/abbasmoosavi/react-native-view-pager.git/issues"
   },
