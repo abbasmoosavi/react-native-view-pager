@@ -1,4 +1,4 @@
-# React-Native-ViewPager
+# react-native-view-pager
 [![npm](https://img.shields.io/npm/v/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager) [![npm](https://img.shields.io/npm/dm/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager) [![npm](https://img.shields.io/npm/dt/rn-viewpager.svg?style=plastic)](https://npmjs.org/package/rn-viewpager)
 
 ViewPager and Indicator component for react-native on both android and ios. ViewPager's props is the same as [ViewPagerAndroid](https://facebook.github.io/react-native/docs/viewpagerandroid.html#content). 
@@ -44,7 +44,9 @@ react-native run-ios
 ## Usage
 
 ### Install from npm:
-`npm install --save rn-viewpager`
+`npm install --save react-native-view-pager`
+
+`yarn add react-native-view-pager`
 
 ### Integrate into your app:  
 
